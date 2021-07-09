@@ -1,4 +1,4 @@
-# Excel-Problem-Solver
+# Excel-Problem-Solving
 
 In this repository I have 2 files.<br>
 
